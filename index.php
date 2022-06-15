@@ -1,7 +1,5 @@
 <?php
 
-estoy de acuerdo
-	//session_start();
 	 require_once"config/app.conf.php";
 	 date_default_timezone_set('America/Lima');
 
