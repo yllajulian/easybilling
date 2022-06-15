@@ -1,6 +1,6 @@
 <?php
 
-
+echo "hola modificado ";
 
 	//session_start();
 	 require_once"config/app.conf.php";
